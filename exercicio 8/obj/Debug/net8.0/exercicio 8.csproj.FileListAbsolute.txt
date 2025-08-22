@@ -1,0 +1,14 @@
+C:\Users\gustavo59267926\Documents\c#\Projeto\exercicio 8\bin\Debug\net8.0\exercicio 8.exe
+C:\Users\gustavo59267926\Documents\c#\Projeto\exercicio 8\bin\Debug\net8.0\exercicio 8.deps.json
+C:\Users\gustavo59267926\Documents\c#\Projeto\exercicio 8\bin\Debug\net8.0\exercicio 8.runtimeconfig.json
+C:\Users\gustavo59267926\Documents\c#\Projeto\exercicio 8\bin\Debug\net8.0\exercicio 8.dll
+C:\Users\gustavo59267926\Documents\c#\Projeto\exercicio 8\bin\Debug\net8.0\exercicio 8.pdb
+C:\Users\gustavo59267926\Documents\c#\Projeto\exercicio 8\obj\Debug\net8.0\exercicio 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo59267926\Documents\c#\Projeto\exercicio 8\obj\Debug\net8.0\exercicio 8.AssemblyInfoInputs.cache
+C:\Users\gustavo59267926\Documents\c#\Projeto\exercicio 8\obj\Debug\net8.0\exercicio 8.AssemblyInfo.cs
+C:\Users\gustavo59267926\Documents\c#\Projeto\exercicio 8\obj\Debug\net8.0\exercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\gustavo59267926\Documents\c#\Projeto\exercicio 8\obj\Debug\net8.0\exercicio 8.dll
+C:\Users\gustavo59267926\Documents\c#\Projeto\exercicio 8\obj\Debug\net8.0\refint\exercicio 8.dll
+C:\Users\gustavo59267926\Documents\c#\Projeto\exercicio 8\obj\Debug\net8.0\exercicio 8.pdb
+C:\Users\gustavo59267926\Documents\c#\Projeto\exercicio 8\obj\Debug\net8.0\exercicio 8.genruntimeconfig.cache
+C:\Users\gustavo59267926\Documents\c#\Projeto\exercicio 8\obj\Debug\net8.0\ref\exercicio 8.dll
